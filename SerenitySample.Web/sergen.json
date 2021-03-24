@@ -1,0 +1,10 @@
+﻿{
+  "RootNamespace": "SerenitySample",
+  "ServerTypings": {
+    "LocalTexts": true
+  },
+  "UpgradeInfo": {
+    "InitialType": "Community",
+    "InitialVersion": "5.0.24.0"
+  }
+}
