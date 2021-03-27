@@ -1,11 +1,15 @@
 # SerenitySample
-==============================================================================================
-For Window machine clone the project and run as it is.
-==============================================================================================
 
 
-===================================MAC Laptop====================================================
-Serenity .NET Framework project sample
+
+==============================================================================================<br/>
+       For Window machine clone the project and run as it is.<br/>
+==============================================================================================<br/>
+
+
+===================================MAC Laptop==================================================<br/>
+Serenity .NET Framework project sample<br/>
+
 for connecting to mysql follow below steps in Mac
 1. startup.cs change RegisterDataProviders method content
             //DbProviderFactories.RegisterFactory("System.Data.SqlClient", SqlClientFactory.Instance);
@@ -23,7 +27,7 @@ for connecting to mysql follow below steps in Mac
             
 2.Follow mysql installation and connection String setup from given url https://www.c-sharpcorner.com/article/how-to-connect-mysql-with-asp-net-core/
 
-=======================================================================================
+=======================================================================================<br/>
 for sql server configuration in mac
 
 1. Install docker desktop
@@ -34,6 +38,6 @@ for sql server configuration in mac
 
 
 
-build comand: dotnet build
+build comand: dotnet build<br/>
 Run Command: dotnet run
 
